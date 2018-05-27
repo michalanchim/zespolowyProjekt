@@ -1,0 +1,21 @@
+E:\Studia\III rok\I semestr\IO\serwis\Serwis\Serwis\bin\Debug\Serwis.exe.config
+E:\Studia\III rok\I semestr\IO\serwis\Serwis\Serwis\obj\Debug\Serwis.csprojResolveAssemblyReference.cache
+E:\Studia\III rok\I semestr\IO\serwis\Serwis\Serwis\obj\Debug\Serwis.Form1.resources
+E:\Studia\III rok\I semestr\IO\serwis\Serwis\Serwis\obj\Debug\Serwis.Properties.Resources.resources
+E:\Studia\III rok\I semestr\IO\serwis\Serwis\Serwis\obj\Debug\Serwis.csproj.GenerateResource.Cache
+E:\Studia\III rok\I semestr\IO\serwis\Serwis\Serwis\bin\Debug\Serwis.exe
+E:\Studia\III rok\I semestr\IO\serwis\Serwis\Serwis\bin\Debug\Serwis.pdb
+E:\Studia\III rok\I semestr\IO\serwis\Serwis\Serwis\obj\Debug\Serwis.exe
+E:\Studia\III rok\I semestr\IO\serwis\Serwis\Serwis\obj\Debug\Serwis.pdb
+E:\Studia\III rok\II semestr\Projekt zespołowy\Serwis\Serwis\bin\Debug\Serwis.exe.config
+E:\Studia\III rok\II semestr\Projekt zespołowy\Serwis\Serwis\obj\Debug\Serwis.exe
+E:\Studia\III rok\II semestr\Projekt zespołowy\Serwis\Serwis\obj\Debug\Serwis.pdb
+E:\Studia\III rok\II semestr\Projekt zespołowy\Serwis\Serwis\bin\Debug\Serwis.exe
+E:\Studia\III rok\II semestr\Projekt zespołowy\Serwis\Serwis\bin\Debug\Serwis.pdb
+E:\Studia\III rok\II semestr\Projekt zespołowy\Serwis\Serwis\obj\Debug\Serwis.csprojResolveAssemblyReference.cache
+E:\Studia\III rok\II semestr\Projekt zespołowy\Serwis\Serwis\obj\Debug\Serwis.Form1.resources
+E:\Studia\III rok\II semestr\Projekt zespołowy\Serwis\Serwis\obj\Debug\Serwis.Properties.Resources.resources
+E:\Studia\III rok\II semestr\Projekt zespołowy\Serwis\Serwis\obj\Debug\Serwis.csproj.GenerateResource.Cache
+E:\Studia\III rok\II semestr\Projekt zespołowy\Serwis\zespolowyProjekt\Serwis\bin\Debug\Serwis.exe.config
+E:\Studia\III rok\II semestr\Projekt zespołowy\Serwis\zespolowyProjekt\Serwis\obj\Debug\Serwis.exe
+E:\Studia\III rok\II semestr\Projekt zespołowy\Serwis\zespolowyProjekt\Serwis\obj\Debug\Serwis.pdb
